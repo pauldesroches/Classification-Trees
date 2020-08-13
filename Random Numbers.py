@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-# Generate list of 3 non-repeating digits ranging from 1 to 9
+# Generate list of 3 unique digits ranging from 1 to 9
 
 my_list = list(range(1,10)) # list of integers from 1 to 99
                               # adjust this boundaries to fit your needs
